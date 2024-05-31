@@ -21,7 +21,7 @@ JavaImageViewer is a Java-based graphical user interface (GUI) application that 
 
     ```sh
     git clone https://github.com/ykazemim/JavaImageViewer.git
-    cd JavaImageViewer
+    cd JavaImageViewer/src
     ```
 
 2. **Compile and run the application:**
