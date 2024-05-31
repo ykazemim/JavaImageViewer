@@ -1,6 +1,6 @@
-# ImageViewerGUI
+# JavaImageViewer
 
-ImageViewerGUI is a Java-based graphical user interface (GUI) application that allows users to perform various operations on images, such as viewing, resizing, converting to grayscale, and adjusting brightness.
+JavaImageViewer is a Java-based graphical user interface (GUI) application that allows users to perform various operations on images, such as viewing, resizing, converting to grayscale, and adjusting brightness.
 
 ## Features
 
@@ -20,8 +20,8 @@ ImageViewerGUI is a Java-based graphical user interface (GUI) application that a
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/ykazemim/ImageViewerGUI.git
-    cd ImageViewerGUI
+    git clone https://github.com/ykazemim/JavaImageViewer.git
+    cd JavaImageViewer
     ```
 
 2. **Compile and run the application:**
